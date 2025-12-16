@@ -1,0 +1,7 @@
+{
+  "name": "Dreampix",
+  "description": "Professional AI-powered image generation platform with prompt enhancement and optimization guidance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
